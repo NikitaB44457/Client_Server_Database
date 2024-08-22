@@ -1,0 +1,4 @@
+# quantity of digits in hash function
+4
+# quantity of elements in vector
+512
