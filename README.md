@@ -1,0 +1,3 @@
+- Database contains records of students personal data represent by class record
+- Every record contains name, phone number and group of a student
+- Server can proccess request from client such as: insert record in database, delete record from database, search records satisfying certain conditions
